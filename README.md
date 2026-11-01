@@ -84,6 +84,3 @@ CodeAlpha_MatrixOperations/
 ├── matrix_operations.c
 └── README.md
 ```
-## Acknowledgements
-
-Thanks to [CodeAlpha](https://www.codealpha.tech) for the internship opportunity.
